@@ -1,4 +1,4 @@
 const fs =require('fs');
 
-const reading=fs.readFileSync('./file.txt','utf-8');
+const reading=fs.readFileSync('./home.txt','utf-8');
 console.log(reading);
